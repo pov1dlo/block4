@@ -1,6 +1,6 @@
 // host = "http://localhost:8080/api/forecasts";
 var currentDate = new Date();
-var host = "http://sf-pyw.mosyag.in/m04/api/forecasts";
+var host = "https://sf-pyw.mosyag.in/m04/api/forecasts";
 
 function err(){
 	console.log("Что-то пошло не так");
